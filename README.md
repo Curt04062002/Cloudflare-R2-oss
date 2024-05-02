@@ -14,7 +14,7 @@ cloudflare R2是一个文件储存系统，配合Cloudflare Workers可以实现�
 
 
 1. fork该仓库
-2. 前往Cloudflare R2新建一个R2储存桶，并前往储存桶设置，允许公开访问，复制**公共存储桶 URL**
+2. *前往Cloudflare R2新建一个R2储存桶，并前往储存桶设置，允许公开访问，复制**公共存储桶 URL**(上传的文件无法访问)
 3. 前往Cloudflare Pages新建一个站点，选择连接到Git
 
 4.选择刚刚fork的仓库，点击开始设置
